@@ -1,2 +1,2 @@
 # SevenDaysOfCode
- logica/progrmacao
+ logica em programacao
