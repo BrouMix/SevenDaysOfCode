@@ -1,0 +1,18 @@
+let numberTwo = 2
+let stringTwo ='2'
+let numberTwentyFive = 25
+let stringTwentyFive ='25'
+let numberSeven = 7
+let stringSeven ='7'
+
+if ( numberTwo == stringTwo) {
+    console.log ('As variaveis numberTwo e stringTwo tem o mesmo valor, mas sao de tipos diferentes')
+    } else {
+        console.log ('As variaveis numberTwo e stringTwo nao tem mesmo valor')
+    }
+if ( numberTwentyFive == stringTwentyFive){
+    console.log ('As variaveis numberTwentyFive e stringTwentyFive tem o mesmo valor e tipos diferentes')
+}
+if ( numberSeven == stringSeven) {
+    console.log ('As variaveis numberSeven e stringSeven sao do mesmo valor e de tipos diferentes')
+}
