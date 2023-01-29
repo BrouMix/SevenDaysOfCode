@@ -1,5 +1,5 @@
 alert('Seja bem vindo')
 let nome = prompt('Qual é o seu nome?')
-let idade = prompt('Qual é asua idade?')
+let idade = prompt('Qual é a sua idade?')
 let linguagemProgramacao = prompt('Qual e a sua lingua de programação preferida?')
 alert (`Muito bem ${nome}, você tem ${idade} e sua linguagem preferida é ${linguagemProgramacao}`)
