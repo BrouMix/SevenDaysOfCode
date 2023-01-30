@@ -1,2 +1,2 @@
-# SevenDaysOfCode
+#7DaysOfCode
  logica em programacao
